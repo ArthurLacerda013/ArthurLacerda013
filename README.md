@@ -42,11 +42,12 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 <img
-  align="left"
-  alt="Power Platform"
-  title="Power Platform"
-  width="30px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/640px-Microsoft_Power_Platform_logo.svg.png"
+    align="left"
+    alt="Power Platform"
+    title="Power Platform"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://learn.microsoft.com/en-us/power-platform/guidance/icons/media/power-platform.svg"
 />
 <img 
     align="left" 
