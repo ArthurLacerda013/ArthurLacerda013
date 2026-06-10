@@ -1,5 +1,4 @@
-![Luffy](https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif)
-
+![Luffy](https://31.media.tumblr.com/e16b361dc75b0cb1665216040cd6ae13/tumblr_n4e4sw9BVQ1ssbae2o2_500.gif)
 
 # Arthur Lacerda 👨‍💻
 
@@ -25,6 +24,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="MongoDB" 
@@ -33,6 +33,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Power BI" 
@@ -41,14 +42,16 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
-<img
-    align="left"
-    alt="Power Platform"
+
+<img 
+    align="left" 
+    alt="Power Platform" 
     title="Power Platform"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://learn.microsoft.com/en-us/power-platform/guidance/icons/media/power-platform.svg"
-/>
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/microsoftpowerapps"
+ />
+
 <img 
     align="left" 
     alt="AWS" 
@@ -57,6 +60,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="Azure" 
@@ -65,6 +69,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
+
 <img
     align="left" 
     alt="HTML"
@@ -73,6 +78,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img
     align="left" 
     alt="CSS" 
@@ -81,6 +87,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -89,6 +96,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -97,6 +105,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -105,6 +114,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="C#" 
@@ -113,6 +123,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Node.js" 
@@ -121,11 +132,14 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+
 <img
-  align="left"
-  alt="Flask"
-  title="Flask"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://img.icons8.com/nolan/512/flask.png"
+    align="left"
+    alt="Flask"
+    title="Flask"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/nolan/512/flask.png"
 />
+
+<br clear="left"/>
