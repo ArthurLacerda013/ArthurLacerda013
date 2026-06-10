@@ -5,7 +5,7 @@
 
 **`Operador de Suporte em Tecnologia da Informação`**
 
-Olá, prazer! Eu me chamo Arthur Henrique Ribeiro Lacerda, tenho 20 anos de idade e sou natural de Santos-SP.
+Olá, prazer! Eu me chamo Arthur Henrique Ribeiro Lacerda, tenho 21 anos de idade e sou natural de Santos-SP.
 
 Atualmente, exerço o cargo de Suporte Técnico em TI como Jovem Aprendiz na Petrobras.
 
