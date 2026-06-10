@@ -46,8 +46,7 @@ Quando criança, meu sonho era ganhar um computador. A tecnologia é uma das min
   alt="Power Platform"
   title="Power Platform"
   width="30px"
-  style="padding-right: 10px;"
-  src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/640px-Microsoft_Power_Platform_logo.svg.png](https://en.wikipedia.org/wiki/Microsoft_Power_Platform#/media/File:Microsoft_Power_Platform_logo.svg)"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/640px-Microsoft_Power_Platform_logo.svg.png"
 />
 <img 
     align="left" 
